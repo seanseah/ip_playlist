@@ -23,19 +23,18 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 
 #EXTINF:0, group-title="SINGAPORE", SURIA
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
-
-#EXTINF:0, group-title="SINGAPORE", CH 5
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel5.jpg" group-title="SINGAPORE", CH 5
 https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
-#EXTINF:0, group-title="SINGAPORE", CNA
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/CNA.png" group-title="SINGAPORE", CNA
 https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
 #EXTINF:0, group-title="SINGAPORE", OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:0, group-title="SINGAPORE", CH 8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel8.jpg" group-title="SINGAPORE", CH 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8 
-#EXTINF:0, group-title="SINGAPORE", CH U
-channelu, https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channelu.jpg" group-title="SINGAPORE", CH U
+https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8
 #EXTINF:0, group-title="SINGAPORE", Vasantham
-vasantham, https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmpcweb/04.m3u8
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmpcweb/04.m3u8
 #EXTINF:0, group-title="SINGAPORE", AXN
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
 
