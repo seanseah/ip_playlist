@@ -35,8 +35,34 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
 https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8
 #EXTINF:0, group-title="SINGAPORE", Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmpcweb/04.m3u8
-#EXTINF:0, group-title="SINGAPORE", AXN
+
+####
+# Testing
+####
+#EXTINF:0, group-title="SINGAPORE", ITV2
+http://217.33.10.154:8000/play/a025 
+#EXTINF:0, group-title="Airtel", AXN HD
 http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:0, group-title="Airtel", BBC World News
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226051/index.m3u8
+
+#EXTINF:0, group-title="Airtel", DISCOVERY HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:0, group-title="Airtel", DISCOVERY SCIENCE
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8
+#EXTINF:0, group-title="Airtel", DISCOVERY TURBO HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:0, group-title="Airtel", DISCOVERY WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+
+#EXTINF:0, group-title="Unknown", FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
+#EXTINF:0, group-title="Unknown", FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
+#EXTINF:0, group-title="Unknown", FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:0, group-title="Unknown", FOXLife
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
 
 # Sources
 # https://raw.githubusercontent.com/suaji/testing/master/LIVE_IPTV.m3u
