@@ -39,8 +39,8 @@ https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u
 ####
 # Testing
 ####
-#EXTINF:0, group-title="SINGAPORE", NBCSN (Local)
-http://192.168.0.240/tv/stream/0bf91ec921c530dabc5a9994e0632fda11b8cc86 
+#EXTINF:0, group-title="SINGAPORE", SkySport (Local)
+http://192.168.0.240/tv/stream/8b763f165245eba10cd4345bd9646dc54a2fd5c4 
 #EXTINF:0, group-title="SINGAPORE", ITV2
 http://217.33.10.154:8000/play/a025 
 #EXTINF:0, group-title="Airtel", AXN HD
