@@ -39,6 +39,8 @@ https://ftasuria.akamaized.net/out/v1/dc54e93f8c674ab99d41f2f461d97ecf/index.m3u
 ####
 # Testing
 ####
+#EXTINF:0, group-title="SINGAPORE", SkySport (EPL)
+http://192.168.0.240/tv/stream/dc01f6ae6dbcdeb567f292d29dae38029ccb8e89 
 #EXTINF:0, group-title="SINGAPORE", SkySport (Local)
 http://192.168.0.240/tv/stream/8b763f165245eba10cd4345bd9646dc54a2fd5c4 
 #EXTINF:0, group-title="SINGAPORE", ITV2
