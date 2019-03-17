@@ -22,11 +22,11 @@ http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel5.jpg" group-title="SINGAPORE", CH 5
-https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+https://tglmp02.akamaized.net/out/v1/fc10702fcb024ed79ff1ab36bb54f779/master.m3u8
 #EXTINF:0, group-title="SINGAPORE", OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel8.jpg" group-title="SINGAPORE", CH 8
-https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8 
+https://tglmp03.akamaized.net/out/v1/b27afa589617426ea177726bbb5b0c6c/master.m3u8
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channelu.jpg" group-title="SINGAPORE", CH U
 https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8 
 #EXTINF:-1 tv-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/revision/latest?cb=20161028005656" group-title="Singapore",Channel News Asia
