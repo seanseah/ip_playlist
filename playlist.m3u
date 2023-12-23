@@ -1,11 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/CNA.png",CNA
 http://210.210.155.35/uq2663/h/h29/index.m3u8
 #https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Ch 5
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel5.jpg",Ch 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/11719964/contextType/PLAYBACK/isAltUrl/False/a.m3u8
 
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Ch 8
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel8.jpg",Ch 8
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/11719965/contextType/PLAYBACK/isAltUrl/False/a.m3u8
+
+Astro SuperSport 1,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59220.ts
+Astro SuperSport 2,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59219.ts
+Astro SuperSport 3,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59218.ts
+Astro SuperSport 4,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59217.ts
+Astro SuperSport 5,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1713.ts
