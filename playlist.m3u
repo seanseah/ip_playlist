@@ -10,8 +10,5 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel8.jpg",Ch 8
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/11719965/contextType/PLAYBACK/isAltUrl/False/a.m3u8
 
-Astro SuperSport 1,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59220.ts
-Astro SuperSport 2,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59219.ts
-Astro SuperSport 3,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59218.ts
-Astro SuperSport 4,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59217.ts
-Astro SuperSport 5,http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1713.ts
+#EXTINF:-1 group-title="Astro" tvg-id="Astro Supersport 1" tvg-chno="Astro Supersport 1",Astro Sport 1
+http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59220.ts
