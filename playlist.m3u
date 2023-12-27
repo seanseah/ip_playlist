@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/CNA.png",CNA
-http://210.210.155.35/uq2663/h/h29/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel5.jpg",Ch 5
@@ -10,17 +10,23 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel8.jpg",Ch 8
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/11719965/contextType/PLAYBACK/isAltUrl/False/a.m3u8
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena
+#EXTINF:-1 group-title="Documentary" tvg-id="DiscoveryChannel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png",Discovery Channel HD
+http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/3629.ts
+
+#EXTINF:-1 group-title="Documentary" tvg-id="BBCEarth" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png",BBC Earth
+http://realsport.scalecdn.co:8080/live/DrReaper012/01ef1649eb/503177.ts
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroArena" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena
 http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1713.ts
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1
 http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59220.ts#http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1722.ts
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport2" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2
 http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59219.ts#http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1721.ts
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport3" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3
 http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59218.ts#http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1720.ts
 
-#EXTINF:-1 group-title="ASTRO" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSupersport4" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4
 http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/59217.ts#http://mku0414.oknirvana.club:8880/live/DAALM1923/C3ggHrsmbK/1719.ts
