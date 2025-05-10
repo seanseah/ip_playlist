@@ -9,6 +9,9 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://raw.githubusercontent.com/GadgetReactor/plugin.video.sgtv/master/resources/media/channel8.jpg",Ch 8
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/11719965/contextType/PLAYBACK/isAltUrl/False/a.m3u8
 
+#EXTINF:-1 group-title="News" tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/960px-CNN_International_logo.svg.png",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
 #EXTINF:-1 group-title="News" tvg-id="BBC" tvg-logo="",BBC
 https:\\d2vnbkvjbims7j.cloudfront.net\containerA\LTN\playlist.m3u8
 
