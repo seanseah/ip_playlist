@@ -12,11 +12,17 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="News" tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/960px-CNN_International_logo.svg.png",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 group-title="News" tvg-id="CNN Headlines" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png",CNN Headlines
+https:\\i.mjh.nz\.r\discovery-ptcn.m3u8
+
 #EXTINF:-1 group-title="News" tvg-id="BBC" tvg-logo="",BBC
 https:\\d2vnbkvjbims7j.cloudfront.net\containerA\LTN\playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="CNBC Indonesia" tvg-logo="",CNBC Indonesia
 https:\\live.cnbcindonesia.com\livecnbc\smil:cnbctv.smil\master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="Bloomberg" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png",Bloomberg Australia
+https:\\i.mjh.nz\.r\bloomberg-tv.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="AstroAwani" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena
 https:\\d2idp3hzkhjpih.cloudfront.net\out\v1\4b85d9c2bf97413eb0c9fd875599b837\index.m3u8
