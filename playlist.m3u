@@ -44,4 +44,9 @@ http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/104.ts
 http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/99.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus-US" tvg-logo="" group-title="USA HD",Fox Soccer Plus-US
 http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/77.ts
-
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3 HD-GB" tvg-logo="" group-title="GB",TNT Sports 3 HD-GB
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/91.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2 HD-GB" tvg-logo="" group-title="GB",TNT Sports 2 HD-GB
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/90.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1 HD-GB" tvg-logo="" group-title="GB",TNT Sports 1 HD-GB
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/89.ts
