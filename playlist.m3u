@@ -32,3 +32,16 @@ http:\\fl3.moveonjoy.com\CBS_SPORTS_NETWORK\index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="UFC" tvg-logo="", UFC
 https:\\aegis-cloudfront-1.tubi.video\a78ea283-8666-44a1-a0f6-fde5d229ac21\playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League HD-GB" tvg-logo="" group-title="GB",Sky Sports Premier League HD-GB
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/96.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News HD-GB" tvg-logo="" group-title="GB",Sky Sports News HD-GB
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/92.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix HD-GB" tvg-logo="" group-title="GB",Sky Sports Mix HD-GB
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/104.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Events HD-GB" tvg-logo="" group-title="GB",Sky Sports Main Events HD-GB
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports ESPN HD-GB" tvg-logo="" group-title="GB",BT Sports ESPN HD-GB
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/99.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus-US" tvg-logo="" group-title="USA HD",Fox Soccer Plus-US
+http://kodistreamstv.com:8000/live/foxteamhd/VVPYpGd9wE/77.ts
+
